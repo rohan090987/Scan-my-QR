@@ -22,5 +22,5 @@ This is a beginner-level QR code scanner built using the [html5-qrcode](https://
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/scan-my-qr.git
+   git clone https://github.com/rohan090987/Scan-my-QR.git
    cd SCAN MY QR
