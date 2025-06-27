@@ -16,7 +16,7 @@ This is a beginner-level QR code scanner built using the [html5-qrcode](https://
 
 ## 🧪 Live Demo
 
-[🔗 Deployed on GitHub Pages](https://your-username.github.io/scan-my-qr/)
+[🔗 Deployed on GitHub Pages](https://rohan090987.github.io/Scan-my-QR/)
 
 ## 📂 Installation
 
